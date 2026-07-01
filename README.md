@@ -103,7 +103,7 @@ Deploy     → Google Cloud Run
 ### 1. Clone & install
 
 ```bash
-git clone <your-repo-url>
+git clone <**your-repo-url**https://github.com/RebinJamshir/university-student-portal.git>
 cd university-student-portal
 npm install
 ```
