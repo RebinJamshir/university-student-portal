@@ -1,0 +1,6 @@
+{
+  "name": "University Student Portal",
+  "description": "A fully interactive full-stack student academic portal featuring AI-powered academic forecast advisors, resume graders, calendar memos registers, and mock financial gateways.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
